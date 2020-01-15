@@ -42,6 +42,7 @@ h1 {
 	width: 50%;
 	height: 300px;
 	background-color: red;
+	background: linear-gradient(white,red);
 }
 h2 {
 	padding-left: 20px;
@@ -58,7 +59,7 @@ img {
 	float: right;
 	width: 25%;
 	height: 300px;
-	background-color: blue;
+	background-color: blue;	
 }
 .p {
 	color: white;
