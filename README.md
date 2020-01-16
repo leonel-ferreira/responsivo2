@@ -1,2 +1,1 @@
-Inicie projeto responsivo.
-Finalizado projeto.
+Iniciando portal...
